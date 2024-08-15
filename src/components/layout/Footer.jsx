@@ -29,7 +29,7 @@ const Footer = () => {
         <Typography variant="h5" sx={{"@media (max-width:600px)":{
             fontSize:'1rem'
         }}}>
-            All Rights Reserved &copy; Techinfo YT
+            All Rights Reserved &copy;
         </Typography>
 
     </Box>
